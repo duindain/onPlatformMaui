@@ -19,5 +19,6 @@ With it commented out no crash
 
 Inline Onplatforms work fine
 
-![Crash](https://github.com/duindain/onPlatformMaui/blob/main/OnPlatform commented in.jpg?raw=true)
-![Working](https://github.com/duindain/onPlatformMaui/blob/main/OnPlatform commented out.jpg?raw=true)
+![Crash](OnPlatform commented in.jpg)
+
+![Working](OnPlatform commented out.jpg?raw=true)
