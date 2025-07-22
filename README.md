@@ -19,10 +19,10 @@ With it commented out no crash or using the platformextension
 
 ```<ColumnDefinition Width="{OnPlatform iOS='245', Android='250', WinUI='255'}" />```
 
-Inline Onplatforms work fine
+With the OnPlatform commented in we get this crash
 
 ![OnPlatform commented in](https://github.com/user-attachments/assets/5767ffdc-608f-499e-b2fc-4df9bcd7e1bc)
 
-OnPlatform commented out
+OnPlatform commented out, although the platform extension version is still there no crash
 ![OnPlatform commented in](https://github.com/user-attachments/assets/f6c611b5-5387-44de-b97c-8314b8a9800e)
 
