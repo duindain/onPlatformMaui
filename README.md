@@ -19,6 +19,8 @@ With it commented out no crash
 
 Inline Onplatforms work fine
 
-![Crash](OnPlatform commented in.jpg)
+![OnPlatform commented in](https://github.com/user-attachments/assets/5767ffdc-608f-499e-b2fc-4df9bcd7e1bc)
 
-![Working](OnPlatform commented out.jpg?raw=true)
+OnPlatform commented out
+<img width="708" height="772" alt="OnPlatform commented out" src="https://github.com/user-attachments/assets/f6c611b5-5387-44de-b97c-8314b8a9800e" />
+
