@@ -15,7 +15,9 @@ With the OnPlatform commented in
 
 The app crashes
 
-With it commented out no crash
+With it commented out no crash or using the platformextension
+
+```<ColumnDefinition Width="{OnPlatform iOS='245', Android='250', WinUI='255'}" />```
 
 Inline Onplatforms work fine
 
